@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github-profile-banner.png" alt="Muhammad Amin Murtadho - Backend Developer" width="850">
+  <img src="./github-profile-banner-bw.png" alt="Muhammad Amin Murtadho - Backend Developer" width="850">
 </p>
 
 <p align="center">
